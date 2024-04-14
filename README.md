@@ -1,4 +1,4 @@
-## Hi, I'm Rickard ![a](/7512-blobvikingfeast_50x50.png)
+## Hi there, I'm Rickard ![a](/7512-blobvikingfeast_50x50.png)
 
 - 🔭 I’m currently working on my own `Password Manager🔒` *(1Password I love you!)* and `Discord Bot🤖`
 - 💻 I’m currently learning `TypeScript` and `React`.
