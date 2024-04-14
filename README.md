@@ -3,4 +3,4 @@
 - 🔭 I’m currently working on my own `Password Manager🔒` *(1Password I love you!)*
 - 💻 I’m currently learning `TypeScript` and `React`.
 - 🎓 Currently studying to become a `JavaScript-developer`.
-- ❤️‍🔥 Fun fact: I **HATE** the summer and the heat. I **LOVE** the winter, the cold and snow. Yes I'm the complete opposite to everyone else❄️
+- ❄️ Fun fact: I **HATE** the summer and the heat. I **LOVE** the winter, the cold and snow. Yes I'm the complete opposite to everyone else.
