@@ -1,6 +1,9 @@
-### Hi, I'm Rickard ![a](/7512-blobvikingfeast_32x32.png)
+## Hi, I'm Rickard ![a](/7512-blobvikingfeast_50x50.png)
 
-- 🔭 I’m currently working on my own Password Manager🔒
-- 💻 I’m currently learning JavaScript, TypeScript and Figma Design.
-- 🎓 I'm currently studying to become a JavaScript-developer.
-- ⚡ Fun fact: I **HATE** the summer and the heat. I **LOVE** the winter, the cold and snow. Yes I'm the complete opposite to everyone else.❄️
+- 🔭 I’m currently working on my own `Password Manager🔒` *(1Password I love you!)*
+- 💻 I’m currently learning `JavaScript`, `TypeScript` and `React`.
+- 🎓 Currently studying to become a `JavaScript-developer`.
+- ⚡ Fun fact: I **HATE** the summer and the heat. I **LOVE** the winter, the cold and snow. Yes I'm the complete opposite to everyone else❄️
+- 🦜 I love languages and I am currently learning `Icelandic`.
+---
+[![Rickard's GitHub stats](https://github-readme-stats.vercel.app/api?username=locorickardo)](https://github.com/anuraghazra/github-readme-stats)
